@@ -11,8 +11,9 @@
 
 
 
-I build **custom AI models from scratch**, hunt for **real security vulnerabilities**, and I'm constantly pushing the limits of what's possible — even at 17.  
-I'm deeply focused on **LLM fine-tuning, open-source models, and building solutions that actually work**.
+I build custom AI models, with a strong focus on machine learning and LLM fine-tuning — even at 17. 
+I work mainly with open-source models and focus on developing practical, efficient, and reliable AI solutions.
+ 
 
 ---
 
